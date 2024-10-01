@@ -1,0 +1,14 @@
+.Apple {
+    font-size:20px;
+    color:aqua;
+    text-indent: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: red;
+}
+
+ul {
+    margin: 0;
+    list-style-position: inside;
+}
